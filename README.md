@@ -1,4 +1,3 @@
-<div width="10%">
 hello there :3c<br><br>
 <b>who am i??</b><br>
 i am <ruby>zino<rt>joão henrique flauzino</rt></ruby>, a 20yo brazilian information systems student at <ruby>UNIFEI<rt>Universidade Federal de Itajubá</rt></ruby>, currently on my fifth semester.<br>
@@ -22,5 +21,9 @@ i am currently participating in the development of a bunch of games, so stay tun
 
 <hr>
 
-<img src="https://giffiles.alphacoders.com/210/210938.gif" height=120 >
+<div align="center">
+<img src="https://giffiles.alphacoders.com/210/210938.gif" height=160 >
+<img src="https://github.com/zinoLath/zinoLath/blob/main/utsuho.png" height=120>
+<img src="https://github.com/zinoLath/zinoLath/blob/main/orin.png" height=120>
+<img src="https://github.com/zinoLath/zinoLath/blob/main/satori.png" height=120>
 </div>
