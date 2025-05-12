@@ -5,7 +5,7 @@ i would describe myself as someone inherently curious and investigative of the w
 	<br><br>
 <b>what am i doing??</b><br>
 while i do consider myself a generalist in the sense that i am probably adventuring myself in something new, i do have more tangible experience in gamedev and webdev.<br>
-i have participated in the development of games such as <a href="https://en.touhouwiki.net/wiki/Unstable_and_Unimaginable_Power">東方稀濳群　～ Unstable and Unimaginable Power</a>, working a <ruby>developer<rt>menu, extra stage</rt></ruby><br><br>
+i have participated in the development of games such as <a href="https://en.touhouwiki.net/wiki/Unstable_and_Unimaginable_Power">東方稀濳群 ～ Unstable and Unimaginable Power</a>, working a <ruby>developer<rt>menu, extra stage</rt></ruby><br><br>
 i am currently participating in the development of a bunch of games, so stay tuned for future releases!<br>
 
 <br>
