@@ -9,6 +9,8 @@ i have participated in the development of games such as <a href="https://en.touh
 i am currently participating in the development of a bunch of games, so stay tuned for future releases!<br>
 
 <br>
+
+<div align="center">
 <hr>
 
 [![](https://img.shields.io/badge/lastfm-992111)](https://www.last.fm/user/zino-lath)
@@ -21,7 +23,6 @@ i am currently participating in the development of a bunch of games, so stay tun
 
 <hr>
 
-<div align="center">
 <img src="https://giffiles.alphacoders.com/210/210938.gif" height=160 >
 <img src="https://github.com/zinoLath/zinoLath/blob/main/utsuho.png" height=120>
 <img src="https://github.com/zinoLath/zinoLath/blob/main/orin.png" height=120>
